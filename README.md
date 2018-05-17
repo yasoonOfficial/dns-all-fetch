@@ -1,4 +1,4 @@
-# fetch
+# dns-all-fetch
 
 Fetch url contents. Supports gzipped content for quicker download, redirects (with automatic cookie handling, so no eternal redirect loops), streaming and piping etc.
 
@@ -6,7 +6,7 @@ Fetch url contents. Supports gzipped content for quicker download, redirects (wi
 
 ## Install
 
-    npm install fetch
+    npm install @yasoon/dns-all-fetch
 
 ## Usage
 
