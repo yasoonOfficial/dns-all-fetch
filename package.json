@@ -1,12 +1,12 @@
 {
-  "name": "fetch",
+  "name": "@yasoon/dns-all-fetch",
   "description": "Fetch URL contents",
-  "version": "1.1.0",
-  "author": "Andris Reinman",
-  "homepage": "http://github.com/andris9/fetch",
+  "version": "1.2.4",
+  "author": "Tobias Viehweger",
+  "homepage": "http://github.com/yasoonOfficial/dns-all-fetch",
   "repository": {
     "type": "git",
-    "url": "git://github.com/andris9/fetch.git"
+    "url": "git://github.com/yasoonOfficial/dns-all-fetch.git"
   },
   "scripts": {
     "test": "grunt"
